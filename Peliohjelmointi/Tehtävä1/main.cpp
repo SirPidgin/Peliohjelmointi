@@ -59,7 +59,6 @@ public:
 
 int main()
 {
-	int max = 50;
 	std::vector<GameObject*> objects;
 	float deltaTime = 1000;
 
